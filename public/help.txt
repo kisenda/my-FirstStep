@@ -1,0 +1,20 @@
+<!--file ini sudah digantikan fungsi oleh help.hbs-->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <h2>Help Me ? yup. for something matches.</h2>
+
+</head>
+
+<body>
+    
+
+
+</body>
+
+
+
+</html>

@@ -1,0 +1,18 @@
+<!--file ini sudah digantikan fungsi oleh index.hbs-->
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href= "css/styles.css">
+    <script src="./js/app.js"></script>
+</head>
+
+<body>
+    <h1>Don't lose that Focus. Know what the purpose and what the important is.</h1>
+
+</body>
+
+</html>

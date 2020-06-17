@@ -1,0 +1,20 @@
+<!--file ini sudah tergantikan fungsinya oleh about.hbs-->
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link rel="stylesheet" href= "css/styles.css">
+
+</head>
+
+<body>
+    <h2>Hallo. This is about experience! </h2>
+    <img src="img/1 year.jpg">    
+
+</body>
+
+
+
+</html>
