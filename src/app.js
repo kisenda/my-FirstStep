@@ -10,6 +10,9 @@ const geocode = require('./Utils/geocode');
 
 //define paths for express config
 const app = express()
+const port = process.env.PORT || 3000;
+
+
 const PublicDirPath = path.join(__dirname, '../public');
 const viewPath = path.join (__dirname, '../templates/views');    // >>setting lokasi folder hbs ganti nama
 const PartialPath = path.join (__dirname,'../templates/partials');
@@ -134,7 +137,7 @@ app.get('/coba', (req,res) =>{
     res.send({product : []})
 })
 
-app.listen(3000, () => {
-    console.log('the server is up on port 3000');           //to turn off => CTRL + c
+app.listen(port, () => {
+    console.log('the server is up on port ' + port);           //to turn off => CTRL + c
 
 })
